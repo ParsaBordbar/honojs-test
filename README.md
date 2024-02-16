@@ -1,4 +1,4 @@
-# server
+# Hono with Bun Test
 
 To install dependencies:
 
